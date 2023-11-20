@@ -65,20 +65,7 @@
       "startTime": "2023-03-09T06:00:00.000Z",
       "endTime": "2023-03-09T07:00:00.000Z"
     },
-    {
-      "title": "Walking in the forest",
-      "description": "Walking in the forest.",
-      "categoryIds": [
-        1,
-        3
-      ],
-      "location": "Forest",
-      "startTime": "2023-11-15T18:16",
-      "endTime": "2023-11-19T02:16",
-      "createdBy": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Papilio_Machaon_JPG1a.jpg",
-      "id": 5
-    }
+    
   ],
   "categories": [
     {
